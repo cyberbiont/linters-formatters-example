@@ -1,1 +1,1 @@
-export default 'Hi from imported';
+export default "Hi from imported";
