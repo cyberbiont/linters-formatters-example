@@ -8,7 +8,7 @@ on:
 
 jobs:
   run-linters:
-    name: Lint anf format
+    name: Lint and format
     runs-on: ubuntu-latest
 
     steps:
