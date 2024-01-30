@@ -1,12 +1,12 @@
 {
-  // disable in favor of stylelint
-  "css.validate": false,
-  "less.validate": false,
-  "scss.validate": false,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.formatOnSave": true,
-  "editor.codeActionsOnSave": {
-    "source.fixAll": false
-  },
-  "eslint.enable": false
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnSave": true,
+	"editor.codeActionsOnSave": {
+		"source.fixAll": false
+	},
+	"eslint.enable": true,
+	// disable in favor of stylelint
+	"css.validate": false,
+	"less.validate": false,
+	"scss.validate": false
 }

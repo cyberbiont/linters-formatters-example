@@ -36,10 +36,10 @@
 	},
 	"lint-staged": {
 		"*.{js,ts,html,css,scss,json}": [
-			"prettier --write"
+			"prettier --check"
 		],
 		"*.{js,mjs,cjs,jsx,ts,tsx,vue}": [
-			"eslint --fix"
+			"eslint"
 		]
 	}
 }
